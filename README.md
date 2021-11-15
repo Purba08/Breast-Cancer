@@ -30,7 +30,7 @@ Logistic regression can identify important predictors of breast cancer using odd
 Here we conduct 3-part case study:
 
 Part 1: Data Preprocessing
-I find this data from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
+
 Importing the dataset
 
 Splitting the dataset into a training set and test set
@@ -45,4 +45,7 @@ Part 3: Evaluating the Model
 
 Making the confusion matrix
 
-Computing the accuracy with k-Fold cross-validation
+Computing the accuracy with k-Fold cross-validation 
+
+Source of information: 
+I find this data from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
